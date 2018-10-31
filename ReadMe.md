@@ -1,3 +1,3 @@
-add.&& git commit -m "portifolio"
+git add . && git commit -m "portifolio"
 
 git push origin master
